@@ -1,10 +1,164 @@
 // --------------------------------------------------
 // Layout index page
 // --------------------------------------------------
+.index {
 
-main {
-  @include grid-row;
 
-  //other elements
-  //@include grid-column;
+  h1 {
+     letter-spacing: 0.4px;
+     word-spacing: 5px;
+     margin-top: 0px;
+     margin-bottom: 10px;
+
+     font-size: 24px;
+     @include breakpoint(medium){
+       font-size: 28px;
+     }
+     @include breakpoint(large){
+       font-size: 32px;
+     }
+  }
+
+  h2 {
+    font-size: 24px;
+    @include breakpoint(medium){
+      font-size: 28px;
+    }
+    @include breakpoint(large){
+      font-size: 32px;
+    }
+  }
+
+  main {
+    @include container-large();
+
+
+    .subheading {
+       color: $cf-grey-light;
+    }
+
+  }
+
+  .header {
+     padding-top: 60px;
+     padding-bottom: 60px;
+     background-color: transparent;
+     text-align: center;
+     @include container();
+
+     @include breakpoint(medium){
+        padding-top: 70px;
+        padding-bottom: 70px;
+     }
+  }
+
+  .featured-case-study {
+    height: 250px;
+    overflow: hidden;
+    position: relative;
+    display: block;
+
+    &__image {
+      height: 100%;
+      background-size: cover;
+      background-position: center;
+    }
+    @include breakpoint(medium) {
+      height: 400px;
+      &__image {
+        height: 400px;
+      }
+    }
+  }
+
+  .case-study-grid {
+    @include grid-row();
+    max-width: none;
+    overflow: hidden;
+  }
+
+  .case-study {
+
+    @include grid-column(12);
+    display: block;
+    height: auto;
+    position: relative;
+
+    @include breakpoint(medium) {
+      @include grid-column(6, 4);
+    }
+
+    &__image {
+      width: auto;
+      height: auto;
+    }
+
+    &__label {
+      font-family: $font-family--bold;
+      position: absolute;
+      bottom: 0px;
+      width: 100%;
+      background-color: rgba(0, 0, 0, 0.7);
+      text-align: center;
+      padding-top: 10px;
+      height: 40px;
+      font-size: 80%;
+      color: $cf-blue;
+    }
+  }
+
+
+
+
+  .shapshots-grid {
+    @include grid-row();
+    max-width: none;
+
+    @include breakpoint(medium) {
+      margin-bottom: -80px;
+    }
+
+    &__snapshot {
+
+      // Media Query for Snapshots
+      &--hide-on-med-only {
+        @include breakpoint(medium) {
+          display: none;
+        }
+
+        @include breakpoint(large) {
+          display: inline-block;
+        }
+      }
+
+      @include grid-column(6, 4);
+      margin-bottom: 4px;
+
+      @include breakpoint(medium) {
+        @include grid-column(4, 4);
+        margin-bottom: 80px;
+
+      }
+      @include breakpoint(large) {
+        @include grid-column(3, 4);
+
+      }
+
+      &__overflow {
+        overflow: hidden;
+      }
+
+      img {
+        width: 100%;
+        height: auto;
+        transition: all 0.3s ease;
+        position: relative;
+        display: inline-block;
+
+        &:hover {
+          transform: scale(1.1);
+        }
+      }
+    }
+  }
 }

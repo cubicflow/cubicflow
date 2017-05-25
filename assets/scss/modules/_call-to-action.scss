@@ -1,0 +1,40 @@
+.call-to-action {
+  background-color: $near-black;
+  width: 100%;
+  position: relative;
+  color: $cf-grey-dark;
+  transition: all 0.3s;
+  overflow: auto;
+  text-align: center;
+
+  &__container {
+    @include container-small();
+    padding-top: 120px;
+    padding-bottom: 40px;
+    display: inline-block;
+
+    a {
+      transition: all 0.2s;
+
+      h2 {
+        color: $cf-grey-light;
+        margin-top: 40px;
+        display: inline-block;
+      }
+
+      &:hover {
+        h2 {
+          color: $cf-blue;
+        }
+
+      }
+    }
+
+  }
+
+  img {
+    width: 252px;
+    height: 44px;
+  }
+
+}

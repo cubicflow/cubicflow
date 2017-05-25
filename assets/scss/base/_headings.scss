@@ -1,3 +1,96 @@
 // --------------------------------------------------
 // Headings
 // --------------------------------------------------
+
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 140%;
+  padding-bottom: 0.4em;
+  padding-top: 1.4em;
+  color: inherit;
+}
+
+h1 {
+  font-size: 32px;
+  margin-top: 2em;
+  margin-bottom: 1.7em;
+  padding: 0px;
+
+  @include breakpoint(medium) {
+    font-size: 40px;
+  }
+  @include breakpoint(large) {
+    font-size: 48px;
+  }
+
+  &.nopad {
+    margin-bottom: 1em;
+  }
+
+}
+h2 {
+
+  font-size: 28px;
+
+  @include breakpoint(medium) {
+    font-size: 32px;
+  }
+  @include breakpoint(large) {
+    font-size: 36px;
+  }
+
+}
+h1 + h2 {
+  padding-top: 0em;
+}
+
+h3 {
+
+  font-size: 20px;
+
+  @include breakpoint(medium) {
+    font-size: 24px;
+  }
+  @include breakpoint(large) {
+    font-size: 28px;
+  }
+
+}
+
+h4 {
+
+  font-size: 16px;
+
+  @include breakpoint(medium) {
+    font-size: 18px;
+  }
+  @include breakpoint(large) {
+    font-size: 20px;
+  }
+
+}
+
+hr {
+  margin-top: 4.5em;
+  border-color: lighten($cf-grey-light, 15%);
+}
+
+main {
+  ul {
+    width: 70%;
+    font-size: 90%;
+    display: block;
+    margin-top: 30px;
+    margin-left: 35px;
+
+    li{
+      margin-top: 1.25em;
+      list-style-type: circle;
+    }
+    strong {
+      font-weight: normal;
+      color: $cf-grey-dark;
+      font-family: $font-family--bold;
+    }
+  }
+}

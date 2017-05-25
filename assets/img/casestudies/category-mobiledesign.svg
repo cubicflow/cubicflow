@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-mobiledesign</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="22" height="39"></rect>
+    </defs>
+    <g id="mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-Frames" transform="translate(-790.000000, -1092.000000)">
+            <g id="Frame-2" transform="translate(0.000000, 600.000000)">
+                <g id="icon-mobiledesign" transform="translate(790.000000, 492.000000)">
+                    <path d="M50,98 L50,98 C76.509668,98 98,76.509668 98,50 C98,23.490332 76.509668,2 50,2 C23.490332,2 2,23.490332 2,50 C2,76.509668 23.490332,98 50,98 L50,98 Z M50,100 L50,100 C22.3857625,100 0,77.6142375 0,50 C0,22.3857625 22.3857625,0 50,0 C77.6142375,0 100,22.3857625 100,50 C100,77.6142375 77.6142375,100 50,100 L50,100 Z" id="Shape" fill="#737A7E"></path>
+                    <g transform="translate(34.000000, 23.000000)">
+                        <path d="M2,5.00752382 L2,5.00752382 L2,48.9924762 C2,50.65856 3.34079753,52 5,52 L27,52 C28.6568425,52 30,50.6546137 30,48.9924762 L30,5.00752382 C30,3.34144 28.6592025,2 27,2 L5,2 C3.34315752,2 2,3.34538626 2,5.00752382 L2,5.00752382 Z M0,5.00752382 C0,2.24194478 2.23745928,0 5,0 L27,0 C29.7614237,0 32,2.23452093 32,5.00752382 L32,48.9924762 C32,51.7580552 29.7625407,54 27,54 L5,54 C2.23857625,54 0,51.7654791 0,48.9924762 L0,5.00752382 L0,5.00752382 Z" id="Shape" fill="#737A7E"></path>
+                        <circle id="Oval-2" fill="#737A7E" cx="16" cy="48" r="2"></circle>
+                        <g id="Group" transform="translate(5.000000, 5.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" xlink:href="#path-1"></use>
+                            <g mask="url(#mask-2)" fill="#737A7E">
+                                <g transform="translate(-34.000000, -16.000000)">
+                                    <rect id="Rectangle-40-Copy-2" transform="translate(28.000000, 28.000000) rotate(-45.000000) translate(-28.000000, -28.000000) " x="-10" y="27" width="76" height="2"></rect>
+                                    <rect id="Rectangle-40-Copy-3" transform="translate(32.000000, 31.000000) rotate(-45.000000) translate(-32.000000, -31.000000) " x="-6" y="30" width="76" height="2"></rect>
+                                    <rect id="Rectangle-40-Copy-4" transform="translate(36.000000, 34.000000) rotate(-45.000000) translate(-36.000000, -34.000000) " x="-2" y="33" width="76" height="2"></rect>
+                                    <rect id="Rectangle-40-Copy-5" transform="translate(40.000000, 37.000000) rotate(-45.000000) translate(-40.000000, -37.000000) " x="2" y="36" width="76" height="2"></rect>
+                                    <rect id="Rectangle-40-Copy-6" transform="translate(44.000000, 40.000000) rotate(-45.000000) translate(-44.000000, -40.000000) " x="6" y="39" width="76" height="2"></rect>
+                                    <rect id="Rectangle-40-Copy-7" transform="translate(48.000000, 43.000000) rotate(-45.000000) translate(-48.000000, -43.000000) " x="10" y="42" width="76" height="2"></rect>
+                                    <rect id="Rectangle-40-Copy-8" transform="translate(52.000000, 46.000000) rotate(-45.000000) translate(-52.000000, -46.000000) " x="14" y="45" width="76" height="2"></rect>
+                                    <rect id="Rectangle-40-Copy-9" transform="translate(56.000000, 49.000000) rotate(-45.000000) translate(-56.000000, -49.000000) " x="18" y="48" width="76" height="2"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

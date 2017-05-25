@@ -70,24 +70,29 @@
 // --------------------------------------------------
 @import 'base/headings';
 @import 'base/links';
+@import 'base/nav';
 
 //
 // 7. Layout
 // --------------------------------------------------
-@import 'layouts/l-default';
+@import 'layouts/l-whitepage';
 @import 'layouts/l-index';
-@import 'layouts/l-page';
+@import 'layouts/l-blackpage';
+@import 'layouts/l-greypage';
 @import 'layouts/l-post';
+@import 'layouts/l-blog';
+@import 'layouts/l-casestudy';
 
 //
 // 8. Modules
 // --------------------------------------------------
 @import 'modules/m-your-module';
-
-//
-// 9. State
-// --------------------------------------------------
-@import 'states/s-your-module';
+@import 'modules/headers';
+@import 'modules/footers';
+@import 'modules/call-to-action';
+@import 'modules/modal';
+@import 'modules/hiring';
+@import 'modules/blog-ribbon';
 
 //
 // 10. Theme

@@ -2,9 +2,7 @@
 // Layout page
 // --------------------------------------------------
 
-main {
-  @include grid-row;
 
-  //other elements
-  //@include grid-column;
+.whitepage {
+  background-color: $cf-grey-xxlight;
 }

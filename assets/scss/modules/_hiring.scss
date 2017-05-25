@@ -1,0 +1,20 @@
+.hiring {
+  @include container-small();
+
+  text-align: center;
+  padding: 120px 0px 80px 0px;
+  border-bottom: 1px solid $cf-grey-dark;
+
+  &__heading {
+    color: $cf-blue;
+  }
+
+  &__subheading {
+    display: block;
+    color: $cf-grey-light;
+  }
+
+  h2 {
+    padding-top: 0px;
+  }
+}

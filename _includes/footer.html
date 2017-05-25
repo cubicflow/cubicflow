@@ -1,6 +1,26 @@
-<footer>
-  <small><i>footer</i></small>
-  {% include components/nav-footer.html %}
+<footer class="footer">
+  <div class="footer__row">
+    <div class="footer__col footer__col--left">
+      <h3>Cubicflow</h3>
+      <span>Creative Studio</span>
+      <span class="footer__copyright">
+      © Copyright 2017
+      </span>
+    </div>
+    <div class="footer__col">
+      <h3>Say Hello</h3>
+      <span><a href="mailto:hello@cubicflow.com">hello@cubicflow.com</a></span>
+      <span><a href="tel:+1-562-285-3569">America: +1 562 285 3569</a></span>
+      <span><a href="tel:+81 080 4050 3454">Japan: +81 080 4050 3454</a></span>
+    </div>
+    <div class="footer__col">
+      <h3>Appendix</h3>
+      <span><a href="/">Portfolio of Work</a></span>
+      <span><a href="/retainers/">Retainers</a></span>
+      <span><a class="inactive" href="#">DDash Login</a></span>
+    </div>
+    <div class="footer__col footer__col--right">
+      <img class="footer__logo" src="/assets/img/cf-logo-light.svg">
+    </div>
+  </div>
 </footer>
-
-{% include foot.html %}

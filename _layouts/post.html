@@ -1,14 +1,40 @@
 ---
-layout: default
+
 ---
 
+{% include head.html %}
+
+<body class="whitepage blog post">
+
+{% include header.html %}
+
+{% include components/blog-ribbon.html %}
+
 <main>
-<small><i>main</i></small>
-<article>
-  <h1>{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date_to_string }}</p>
-  <p class="post-content">
-  {{ content }}
-  </p>
-</article>
+  <div class="post">
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+
+    <div class="post__meta">
+      <div class="post__tags">
+        {% for tag in page.tags %}
+          <span class="post__tags__tag">{{tag}}</span>
+        {% endfor %}
+      </div>
+
+      {% if page.author %}
+      <div class="post__author">
+        <span class="post__author__avatar"></span>
+        <span class="post__author__name">{{page.author}}</span>
+        <span class="post__author__date">{{ page.date | date: '%B %d, %Y' }}</span>
+      </div>
+      {% endif %}
+    </div>
+  </div>
 </main>
+
+{% include components/call-to-action.html %}
+
+{% include footer.html %}
+
+{% include foot.html %}

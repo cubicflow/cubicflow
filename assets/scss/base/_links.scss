@@ -1,3 +1,22 @@
 // --------------------------------------------------
 // Links
 // --------------------------------------------------
+.button {
+  display: inline-block;
+  background-color: $cf-orange;
+  height: 48px;
+  font-size: 15px;
+  font-family: $font-family--bold;
+  text-transform: uppercase;
+  color: $white;
+  text-align: center;
+  border-radius: 2px;
+  padding: 11px 16px 13px 16px;
+  margin: 2.5em 0px 2.5em 0px;
+  min-width: 176px;
+  transition: all 0.3s;
+
+  &:hover {
+    background-color: $cf-blue;
+  }
+}

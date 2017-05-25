@@ -1,47 +1,114 @@
-# Site settings
 language:               ""
-title:                  "Site Title"
+title:                  "Cubicflow"
 description:            "Site description"
 google-verification:    ""
 
-# Handling Reading
-include:
-  - ".htaccess"
-  - "_pages"
+version: 3.0.3
 
-exclude:
-  - "/assets/"
-  - "bower.json"
-  - "composer.json"
-  - "composer.lock"
-  - "DOC.md"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "/gulp/"
-  - "gulpfile.js"
-  - "LICENSE.md"
-  - "Makefile"
-  - "node_modules"
-  - "npm-debug.log"
-  - "package.json"
-  - "README.md"
-  - "rev-manifest.json"
+# source:      .
+# destination: ./_site
+# plugins:     ./_plugins
+# layouts:     ./_layouts
 
-# Plugins
-gems:             ["jekyll-sitemap", "jekyll-paginate"]
 
-# Conversion
-incremental:      true
+collections:
+  casestudies:
+    output: true
+    permalink: /:collection/:slug/
 
-# Serving
-# url:            ""
-# baseurl:        "" # does not include hostname
+include:      [
+                '.htaccess',
+                '_pages'
+              ]
 
-# Outputting
-permalink:        "/blog/:year/:title/"
-paginate_path:    "/blog/page:num"
-paginate:         5
+# exclude from the conversion and from sitemap.xml
+exclude:      [
+                'assets/js/app.js',
+                'assets/scss/*.scss',
+                'assets/vendor/foundation-sites/',
+                'assets/vendor/jquery/',
+                'assets/vendor/motion-ui/',
+                'assets/vendor/phpmailer/**/*.html',
+                'assets/vendor/what-input/',
+                'bower.json',
+                'composer.json',
+                'composer.lock',
+                'Gemfile',
+                'Gemfile.lock',
+                'gulpfile.js',
+                'LICENSE.md',
+                'Makefile',
+                'node_modules',
+                'npm-debug.log',
+                'package.json',
+                'README.md',
+                'rev-manifest.json'
+              ]
 
-compress_html:
-  ignore:
-    envs: [development]
+# Incremental build
+incremental: true
+
+# keep_files:  ['.git','.svn']
+gems:         [
+                'jekyll-sitemap',
+                'jekyll-paginate'
+              ]
+# timezone:    nil
+# encoding:    nil
+
+# future:      true
+# show_drafts: false
+# limit_posts: 0
+# highlighter: pygments
+
+permalink: /blog/:year/:title/
+paginate_path: '/blog/page:num'
+paginate:      5
+
+# markdown:      kramdown
+# markdown_ext:  markdown,mkdown,mkdn,mkd,md
+# textile_ext:   textile
+
+# excerpt_separator: "\n\n"
+
+# safe:        false
+# watch:       false    # deprecated
+# server:      false    # deprecated
+# host:        0.0.0.0
+# port:        4000
+# url:         ""
+# baseurl:     ""
+# lsi:         false
+
+# maruku:
+#   use_tex:    false
+#   use_divs:   false
+#   png_engine: blahtex
+#   png_dir:    images/latex
+#   png_url:    /images/latex
+#   fenced_code_blocks: true
+
+# rdiscount:
+#   extensions: []
+
+# redcarpet:
+#   extensions: []
+
+# kramdown:
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   smart_quotes: lsquo,rsquo,ldquo,rdquo
+#   use_coderay: false
+
+#   coderay:
+#     coderay_wrap: div
+#     coderay_line_numbers: inline
+#     coderay_line_numbers_start: 1
+#     coderay_tab_width: 4
+#     coderay_bold_every: 10
+#     coderay_css: style
+
+# redcloth:
+#   hard_breaks: true

@@ -1,3 +1,27 @@
 // --------------------------------------------------
 // Mixins
 // --------------------------------------------------
+
+@mixin container() {
+  max-width: 1440px;
+  margin: 0px auto;
+  width: 90%;
+}
+
+@mixin container-small() {
+  max-width: 960px;
+  margin: 0px auto;
+  width: 90%;
+}
+
+@mixin container-xsmall() {
+  max-width: 700px;
+  margin: 0px auto;
+  width: 90%;
+}
+
+@mixin container-large() {
+  max-width: 1440px;
+  margin: 0px auto;
+  width: 100%;
+}
