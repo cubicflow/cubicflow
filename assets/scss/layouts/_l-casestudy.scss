@@ -149,6 +149,26 @@
     &__badge {
       margin-top: 80px;
     }
+
+    &__big {
+      @include container-large();
+    }
+  }
+
+  &__big-image {
+    width: 100%;
+    height: 480px;
+    max-width: 1440px;
+    margin: 0px auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    @include breakpoint(medium) {
+      height: 640px;
+    }
+    @include breakpoint(large) {
+      height: 900px;
+    }
   }
 
 
