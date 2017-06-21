@@ -3,13 +3,13 @@ permalink: /services/
 layout: greypage
 title: Services
 page_class: services
-description: Web development and branding for design-driven customers
+description: Development and branding for design-driven customers
 ---
 
 
-# Web development and branding for design-driven customers
+# Development and branding for design-driven customers
 
-<h4 style="margin-top: -3.5em;">Cubicflow provides flexible, full-spectrum creative services under one&nbsp;roof</h4>
+<h4 style="margin-top: -3.5em;">Cubicflow provides flexible, full-stack creative services under one&nbsp;roof</h4>
 
 <br><br>
 

@@ -53,7 +53,7 @@
   }
 
   .featured-case-study {
-    height: 250px;
+    height: 400px;
     overflow: hidden;
     position: relative;
     display: block;
@@ -64,9 +64,15 @@
       background-position: center;
     }
     @include breakpoint(medium) {
-      height: 400px;
+      height: 450px;
       &__image {
-        height: 400px;
+        height: 450px;
+      }
+    }
+    @include breakpoint(large) {
+      height: 550px;
+      &__image {
+        height: 550px;
       }
     }
   }
@@ -100,9 +106,9 @@
       width: 100%;
       background-color: rgba(0, 0, 0, 0.7);
       text-align: center;
-      padding-top: 10px;
+      padding-top: 8px;
       height: 40px;
-      font-size: 80%;
+      font-size: 90%;
       color: $cf-blue;
     }
   }
