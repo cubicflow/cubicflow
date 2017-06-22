@@ -138,7 +138,8 @@ snapshots:
   </span>
 </header>
 
-{% for casestudy in site.casestudies %}
+{% assign casestudies = site.casestudies | sort: 'display_order' %}
+{% for casestudy in casestudies %}
   {% if casestudy.featured %}
   <a href="{{ casestudy.url }}" class="featured-case-study">
 
@@ -151,7 +152,7 @@ snapshots:
 {% endfor %}
 
 <div class="case-study-grid">
-  {% for casestudy in site.casestudies %}
+  {% for casestudy in casestudies %}
     {% if casestudy.featured == false %}
       <a href="{{ casestudy.url }}" class="case-study">
 
