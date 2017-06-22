@@ -25,6 +25,6 @@ Japan: &nbsp; <a class="contact" href="tel:+81-080-4050-3454">+81 080 4050 3454<
 
 <br><br>
 
-<div style="color: #ffffff; margin-bottom: 20px;">Our team works with a wide variety of development technologies, with something suitable for almost every use case. Check out our case studies or visit our blog to read about some of&nbsp;our&nbsp;favorites.</div>
+<div style="color: #ffffff; margin-bottom: 20px;">Our team works with a wide variety of development technologies, with something suitable for almost every use case. Check out the case studies in&nbsp;our&nbsp;portfolio.</div>
 
 <a href="/" class="button">Explore Portfolio</a>
