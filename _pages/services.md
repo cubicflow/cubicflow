@@ -15,9 +15,9 @@ description: Development and branding for design-driven customers
 
 <img src="/assets/img/services/process--devices.svg">
 
-### Cubicflow full-range services
+### What we do
 
-Full-Stack Development   •	  Branding   •   Marketing   •   iOS and cross-platform   • 	 Javascript   • 	 UI/UX   •  	Ecommerce   •  	CMS   •  	Print and Package   •  	Graphic Design   •  	and&nbsp;More
+Full-Stack Development   •	  Branding   •   Mobile Apps   • 	 UI/UX   •  	Concept Design   •  	Print and Package   •  	Graphic Design   •  	and&nbsp;More
 
 ---
 
@@ -29,7 +29,7 @@ Full-Stack Development   •	  Branding   •   Marketing   •   iOS and cross-
 
 <br>
 
-Cubicflow develops foremost using an Agile methodology. This approach allows us to respond to unpredictability through incremental, iterative work cadences and empirical feedback. Agile means you have an app running sooner, with regular new builds being delivered during the&nbsp;course&nbsp;of&nbsp;development.
+Cubicflow develops using an Agile methodology. This approach allows us to respond to unpredictability through incremental, iterative work cadences and empirical feedback. Agile means you have an app running sooner, with regular new builds being delivered during the&nbsp;course&nbsp;of&nbsp;development.
 
 <br><br>
 
