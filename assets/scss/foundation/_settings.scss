@@ -76,9 +76,9 @@
    medium: 640px,
    large: 1025px,
    xlarge: 1200px,
-   xxlarge: 1440px,
+   xxlarge: 1450px,
  );
- $breakpoint-classes: (small medium large xlarge);
+ $breakpoint-classes: (small medium large xlarge xxlarge);
 
 // 3. The Grid
 // -----------
