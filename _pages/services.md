@@ -1,9 +1,9 @@
 ---
 permalink: /services/
 layout: greypage
-title: Services
+title: Creative Services and Development Process
 page_class: services
-description: Development and branding for design-driven customers
+description: We are Cubicflow – we create brands and develop one-of-a-kind experiences.
 ---
 
 

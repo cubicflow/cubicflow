@@ -1,7 +1,7 @@
 ---
 permalink: /articles/
 layout: whitepage
-title: Blog
+title: Blog thoughts etc
 page_class: blog
 description: Cubicflow retainers breakdown
 ---
