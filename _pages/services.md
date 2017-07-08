@@ -38,11 +38,11 @@ Misc. Development:&nbsp;&nbsp;&nbsp;&nbsp;Available&nbsp;hourly.
 
 Consulting:&nbsp;&nbsp;&nbsp;&nbsp;Contact&nbsp;us.
 
-<br>
+<br><br>
 
 <div style="border-bottom: 1px solid #737A7E;"></div>
 
-<br>
+<br><br>
 
 #### Cubicflow provides flexible, full-stack creative services under&nbsp;one&nbsp;roof
 
