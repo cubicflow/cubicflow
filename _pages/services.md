@@ -6,7 +6,7 @@ page_class: services
 description: We are Cubicflow – we create brands and develop one-of-a-kind experiences.
 ---
 
-# Sample pricing
+# Services sample pricing
 
 #### Below you will find typical starting prices for some of our common services in&nbsp;US&nbsp;Dollars. You&nbsp;can set up a free project consultation meeting by&nbsp;contacting&nbsp;us.
 
