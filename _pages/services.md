@@ -1,66 +1,51 @@
 ---
 permalink: /services/
 layout: greypage
-title: Creative Services and Development Process
+title: Services and Sample Pricing
 page_class: services
 description: We are Cubicflow – we create brands and develop one-of-a-kind experiences.
 ---
 
+# Sample pricing
 
-# Development and branding for design-driven customers
-
-<h4 style="margin-top: -3.5em;">Cubicflow provides flexible, full-stack creative services under one&nbsp;roof</h4>
+#### Below you will find typical starting prices for some of our common services in&nbsp;US&nbsp;Dollars. You&nbsp;can set up a free project consultation meeting by&nbsp;contacting&nbsp;us.
 
 <br><br>
 
 <img src="/assets/img/services/process--devices.svg">
 
-### What we do
-
-Full-Stack Development   •	  Branding   •   Mobile Apps   • 	 UI/UX   •  	Concept Design   •  	Print and Package   •  	Graphic Design   •  	and&nbsp;More
-
----
-
-### Our development process
-
-<br>
-
-<img src="/assets/img/services/process--graph.svg">
-
-<br>
-
-Cubicflow develops using an Agile methodology. This approach allows us to respond to unpredictability through incremental, iterative work cadences and empirical feedback. Agile means you have an app running sooner, with regular new builds being delivered during the&nbsp;course&nbsp;of&nbsp;development.
-
 <br><br>
 
-<img src="/assets/img/services/process--stage-1.svg">
+Logos:&nbsp;&nbsp;&nbsp;&nbsp;$1000+
+
+Logo + basic branding:&nbsp;&nbsp;&nbsp;&nbsp;$2000+
+
+High-level branding:&nbsp;&nbsp;&nbsp;&nbsp;$4000+
+
+Website (static):&nbsp;&nbsp;&nbsp;&nbsp;$4500+
+
+Website (dynamic):&nbsp;&nbsp;&nbsp;&nbsp;$9000+
+
+Web App (React):&nbsp;&nbsp;&nbsp;&nbsp;$15000+
+
+Mobile App (Native):&nbsp;&nbsp;&nbsp;&nbsp;$18000+
 
 <br>
 
-Although the milestones are presented linearly, in the Agile process there is not necessarily a clear definition of where one milestone ends and another begins. Projects requiring a defined scope will usually begin with an in-depth discovery phase that helps us to identify problems and objectives early on in development. In addition discovery is a time for us to immerse ourselves in the brand and end&nbsp;user&nbsp;experience&nbsp;goals.  
+Misc. Design:&nbsp;&nbsp;&nbsp;&nbsp;Available&nbsp;hourly.
 
-<br><br>
+Misc. Development:&nbsp;&nbsp;&nbsp;&nbsp;Available&nbsp;hourly.
 
-<img src="/assets/img/services/process--stage-2.svg">
-
-<br>
-
-It is typical - especially early in the development process - to have a high level of iteration of ideas and concepts, before focusing in on a particular stack of solutions. We use this '10x' phase to explore an array of diverse ideas, perspectives, and design solutions. Honing and focusing in on the strongest solutions defines a Minimal Viable Product&nbsp;for&nbsp;the&nbsp;project.
-
-<br><br>
-
-<img src="/assets/img/services/process--stage-3.svg">
+Consulting:&nbsp;&nbsp;&nbsp;&nbsp;Contact&nbsp;us.
 
 <br>
-
-In the last 'hump' of the development process, Quality control plays a continuous and important role, ultimately ramping up as preparations are made to&nbsp;deploy&nbsp;and&nbsp;go-live.
-
-<br><br>
 
 <div style="border-bottom: 1px solid #737A7E;"></div>
 
-<br><br>
+<br>
 
-<div style="color: #ffffff; margin-bottom: 20px;">Our team works with a wide variety of development technologies, with something suitable for almost every use case. Check out our case studies or visit our blog to read about some&nbsp;of&nbsp;our&nbsp;favorites.</div>
+#### Cubicflow provides flexible, full-stack creative services under&nbsp;one&nbsp;roof
 
-<a href="/" class="button">Explore Portfolio</a>
+#### Full-Stack Development   •	  Branding   •   Mobile Apps   • 	 UI/UX   •  	Concept Design   •  	Print and Package   •  	Graphic Design   •  	and&nbsp;More
+
+<a href="/contact/" class="button">Get in touch</a>
