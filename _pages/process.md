@@ -8,7 +8,7 @@ description: We are Cubicflow – we create brands and develop one-of-a-kind exp
 
 # Agile development process
 
-#### Cubicflow develops using the Agile methodology. This approach allows us to respond to unpredictability through incremental, iterative work cadences and empirical feedback. Agile means you have an app, website, or other project running sooner - with regular updates being delivered during the course of&nbsp;development.
+#### Cubicflow develops using the Agile methodology. This&nbsp;approach allows us to respond to unpredictability through incremental, iterative work cadences and empirical&nbsp;feedback. Agile&nbsp;means you have an app, website, or other project running sooner - with&nbsp;regular updates being delivered during the course of&nbsp;development.
 
 <br><br>
 
