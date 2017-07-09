@@ -18,9 +18,9 @@ description: We are Cubicflow – we create brands and develop one-of-a-kind exp
 
 Logos:&nbsp;&nbsp;&nbsp;&nbsp;$1000+
 
-Logo + basic branding:&nbsp;&nbsp;&nbsp;&nbsp;$2000+
+Logo + basic branding:&nbsp;&nbsp;&nbsp;&nbsp;$2500+
 
-High-level branding:&nbsp;&nbsp;&nbsp;&nbsp;$4000+
+High-level branding:&nbsp;&nbsp;&nbsp;&nbsp;$4500+
 
 Website (static):&nbsp;&nbsp;&nbsp;&nbsp;$4500+
 
