@@ -8,7 +8,7 @@ description: We are Cubicflow – we create brands and develop one-of-a-kind exp
 
 # Services sample pricing
 
-#### Below you will find typical starting prices for some of our common services in&nbsp;US&nbsp;Dollars. You&nbsp;can set up a free project consultation meeting by&nbsp;contacting&nbsp;us.
+#### Below you will find typical starting prices for some of our common&nbsp;services. You&nbsp;can set up a free project consultation meeting by&nbsp;contacting&nbsp;us. (All figures in US&nbsp;dollars)
 
 <br><br>
 
