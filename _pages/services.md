@@ -18,13 +18,13 @@ description: We are Cubicflow – we create brands and develop one-of-a-kind exp
 
 <br><br>
 
-Logo:&nbsp;&nbsp;&nbsp;&nbsp;$2500+
+Logo:&nbsp;&nbsp;&nbsp;&nbsp;$2.5K+
 
-Branding / Identity:&nbsp;&nbsp;&nbsp;&nbsp;$5000+
+Branding / Identity:&nbsp;&nbsp;&nbsp;&nbsp;$5.0K+
 
-Website:&nbsp;&nbsp;&nbsp;&nbsp;$10000+
+Website:&nbsp;&nbsp;&nbsp;&nbsp;$10.0K+
 
-Mobile Application:&nbsp;&nbsp;&nbsp;&nbsp;$20000+
+Mobile Application:&nbsp;&nbsp;&nbsp;&nbsp;$20.0K+
 
 <br>
 
@@ -40,7 +40,7 @@ Consulting:&nbsp;&nbsp;&nbsp;&nbsp;Contact&nbsp;us.
 
 <br><br>
 
-#### Cubicflow provides flexible, full-stack creative services under&nbsp;one&nbsp;roof
+#### Cubicflow provides&nbsp;flexible, creative&nbsp;services under one&nbsp;roof
 
 #### Full-Stack Development   •	  Branding   •   Mobile Apps   • 	 UI/UX   •  	Concept Design   •  	Print and Package   •  	Graphic Design   •  	and&nbsp;More
 
