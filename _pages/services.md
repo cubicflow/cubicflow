@@ -8,7 +8,7 @@ description: We are Cubicflow – we create brands and develop one-of-a-kind exp
 
 # Our services
 
-#### Cubicflow provides&nbsp;flexible, creative&nbsp;services under one&nbsp;roof
+#### Cubicflow provides&nbsp;flexible, integrated&nbsp;creative&nbsp;services under&nbsp;one&nbsp;roof
 
 <br><br>
 
