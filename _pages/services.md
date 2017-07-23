@@ -18,19 +18,13 @@ description: We are Cubicflow – we create brands and develop one-of-a-kind exp
 
 <br><br>
 
-Logos:&nbsp;&nbsp;&nbsp;&nbsp;$1000+
+Logo:&nbsp;&nbsp;&nbsp;&nbsp;$2500+
 
-Logo + basic branding:&nbsp;&nbsp;&nbsp;&nbsp;$2500+
+Branding / Identity:&nbsp;&nbsp;&nbsp;&nbsp;$5000+
 
-High-level branding:&nbsp;&nbsp;&nbsp;&nbsp;$4500+
+Website:&nbsp;&nbsp;&nbsp;&nbsp;$10000+
 
-Website (static):&nbsp;&nbsp;&nbsp;&nbsp;$4500+
-
-Website (dynamic):&nbsp;&nbsp;&nbsp;&nbsp;$9000+
-
-Web App (React):&nbsp;&nbsp;&nbsp;&nbsp;$15000+
-
-Mobile App (Native):&nbsp;&nbsp;&nbsp;&nbsp;$18000+
+Mobile Application:&nbsp;&nbsp;&nbsp;&nbsp;$20000+
 
 <br>
 
