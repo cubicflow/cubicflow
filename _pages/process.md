@@ -8,7 +8,7 @@ description: We are Cubicflow – we create brands and develop one-of-a-kind exp
 
 # Agile development process
 
-#### Cubicflow develops using the Agile methodology. This&nbsp;approach allows us to respond to unpredictability through incremental, iterative work cadences and empirical&nbsp;feedback. Agile&nbsp;means you have an app, website, or other project running sooner - with&nbsp;regular updates being delivered during the course of&nbsp;development.
+#### Cubicflow develops using an agile methodology. This&nbsp;approach allows us to respond to unpredictability through incremental, iterative work cadences and empirical&nbsp;feedback. Agile&nbsp;means you have a project running sooner - with&nbsp;regular updates being delivered during the course of&nbsp;development.
 
 <br><br>
 
@@ -20,7 +20,7 @@ description: We are Cubicflow – we create brands and develop one-of-a-kind exp
 
 <br>
 
-In the Agile process there is not always a clear definition of where one milestone ends and another begins. Projects requiring a defined scope will usually begin with an in-depth Discovery phase that helps us to identify problems and objectives early on in development. In addition, Discovery is a time for us to immerse ourselves in the brand and user-experience&nbsp;goals.  
+With some projects there is not always a clear definition where one milestone ends and another begins -- agile development is the solution to this problem. An in-depth Discovery phase helps us to identify challenges early in development. In addition, Discovery is a time for us to orientate ourselves to both the brand and the user-experience&nbsp;goals.  
 
 <br><br>
 
@@ -28,7 +28,7 @@ In the Agile process there is not always a clear definition of where one milesto
 
 <br>
 
-With agile you can iterate through a number of ideas and concepts, before honing in on a particular solution or tech stack. We use this '10x' phase to explore an array of diverse ideas, perspectives, and design solutions. Focusing on the strongest answers helps define the project's Minimal&nbsp;Viable&nbsp;Product.
+Our process gives us the ability to iterate through a number of ideas before honing in on a particular set of solutions. We use this '10x' phase to explore diverse concepts, perspectives, and ultimately design solutions. Focusing on the strongest answers also helps us more clearly define the Minimal&nbsp;Viable&nbsp;Product.
 
 <br><br>
 
@@ -36,7 +36,7 @@ With agile you can iterate through a number of ideas and concepts, before honing
 
 <br>
 
-Quality control plays a continuous and important role - ultimately ramping up as preparations are made to deploy and&nbsp;go-live.
+Finally, quality control plays a continuous and important role -- ultimately ramping up as preparations are made to deploy and&nbsp;go-live.
 
 <br><br>
 
