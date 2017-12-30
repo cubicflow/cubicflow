@@ -113,6 +113,22 @@
     }
   }
 
+  .video-thumbnail {
+    
+    video {
+      height: 100%;
+      min-width: 100%;
+      object-fit: cover;
+      -webkit-transform: translateX(-18%);
+      transform: translateX(-18%);
+
+      @include breakpoint(540px) {
+        -webkit-transform: translateX(0%);
+        transform: translateX(0%);
+      }
+    }
+  }
+
 
 
 
