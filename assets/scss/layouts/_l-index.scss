@@ -119,10 +119,30 @@
       height: 100%;
       min-width: 100%;
       object-fit: cover;
-      -webkit-transform: translateX(-18%);
-      transform: translateX(-18%);
+      -webkit-transform: translateX(-30%);
+      transform: translateX(-30%);
+
+      @include breakpoint(374px) {
+        -webkit-transform: translateX(-25%);
+        transform: translateX(-25%);
+      }
+
+      @include breakpoint(413px) {
+        -webkit-transform: translateX(-20%);
+        transform: translateX(-20%);
+      }
 
       @include breakpoint(540px) {
+        -webkit-transform: translateX(-12%);
+        transform: translateX(-12%);
+      }
+
+      @include breakpoint(630px) {
+        -webkit-transform: translateX(-6%);
+        transform: translateX(-6%);
+      }
+
+      @include breakpoint(750px) {
         -webkit-transform: translateX(0%);
         transform: translateX(0%);
       }
