@@ -151,7 +151,7 @@
 
       @include breakpoint(1280px) {
         -webkit-transform: translate(0%, 0%);
-        transform: translate(0%, 2%);
+        transform: translate(0%, 0%);
       }
     }
   }
