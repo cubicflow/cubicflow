@@ -139,15 +139,35 @@ snapshots:
 </header>
 
 {% assign casestudies = site.casestudies | sort: 'display_order' %}
+
 {% for casestudy in casestudies %}
   {% if casestudy.featured %}
-  <a href="{{casestudy.url}}" class="featured-case-study">
 
-    <div class="featured-case-study__image cf-responsive" style="background-image: url({{casestudy.featured_thumbnail_path}})">
-    </div>
+    {% if casestudy.video_thumbnail %}
+      <a href="{{casestudy.url}}" class="featured-case-study">
 
-    <div class="case-study__label">{{casestudy.thumbnail_label}}</div>
-  </a>
+        <div class="featured-case-study__image video-thumbnail">
+          <video autoplay loop muted poster="{{casestudy.featured_thumbnail_path}}">
+            <source src="{{casestudy.video_mp4_path}}" type="video/mp4">
+            <source src="{{casestudy.video_webm_path}}" type="video/webm">
+            <source src="{{casestudy.video_ogg_path}}" type="video/ogg">
+          </video>
+        </div>
+      
+        <div class="case-study__label">{{casestudy.thumbnail_label}}</div>
+      </a>
+
+    {% else %}
+
+      <a href="{{casestudy.url}}" class="featured-case-study">
+
+        <div class="featured-case-study__image cf-responsive" style="background-image: url({{casestudy.featured_thumbnail_path}})">
+        </div>
+
+        <div class="case-study__label">{{casestudy.thumbnail_label}}</div>
+      </a>
+    {% endif %}
+
   {% endif %}
 {% endfor %}
 

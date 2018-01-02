@@ -63,20 +63,16 @@
     text-align: center;
     background-size: cover;
     background-position: center;
-
-    @include breakpoint(medium){
-      padding: 90px 0px 90px 0px;
-    }
-
-    @include breakpoint(large){
-      padding: 100px 0px 100px 0px;
-    }
+    height: 450px;
+    display: flex;
+    align-items: center;
 
 
     h1 {
       font-size: 28px;
       margin-bottom: 50px;
       margin-top: 0px;
+      display: none;
     }
 
     hr {
@@ -93,11 +89,19 @@
       width: 90%;
       max-width: 360px;
       max-height: 100px;
+
+      &--shotbud {
+        max-height: 180px;
+      }
+      &--lifeflower {
+        padding-top: 40px;
+        max-height: 150px;
+      }
     }
 
     &__tagline {
       font-size: 20px;
-      font-family: $font-family--light;
+      font-family: $font-family--regular;
       display: inline-block;
       max-width: 450px;
     }
@@ -158,6 +162,19 @@
 
     &__big {
       @include container-large();
+    }
+  }
+
+  &__hero-video {
+    min-width: 320px;
+    width: 100%;
+    max-width: 960px;
+    margin: 0px auto;
+
+    video {
+      width: 100%;
+      object-fit: contain;
+      z-index: -100;
     }
   }
 
