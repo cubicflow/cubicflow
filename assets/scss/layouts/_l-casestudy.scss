@@ -63,6 +63,9 @@
     text-align: center;
     background-size: cover;
     background-position: center;
+    height: 400px;
+    display: flex;
+    align-items: center;
 
     @include breakpoint(medium){
       padding: 90px 0px 90px 0px;
@@ -77,6 +80,7 @@
       font-size: 28px;
       margin-bottom: 50px;
       margin-top: 0px;
+      display: none;
     }
 
     hr {
@@ -93,11 +97,15 @@
       width: 90%;
       max-width: 360px;
       max-height: 100px;
+
+      &--shotbud {
+        max-height: 180px;
+      }
     }
 
     &__tagline {
       font-size: 20px;
-      font-family: $font-family--light;
+      font-family: $font-family--regular;
       display: inline-block;
       max-width: 450px;
     }
