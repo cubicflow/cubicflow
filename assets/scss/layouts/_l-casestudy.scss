@@ -161,6 +161,19 @@
     }
   }
 
+  &__hero-video {
+    min-width: 320px;
+    width: 100%;
+    max-width: 960px;
+    margin: 0px auto;
+
+    video {
+      width: 100%;
+      object-fit: contain;
+      z-index: -100;
+    }
+  }
+
   &__hero-truck {
     width: 100%;
     height: 480px;
