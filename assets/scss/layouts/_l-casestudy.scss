@@ -63,17 +63,9 @@
     text-align: center;
     background-size: cover;
     background-position: center;
-    height: 400px;
+    height: 450px;
     display: flex;
     align-items: center;
-
-    @include breakpoint(medium){
-      padding: 90px 0px 90px 0px;
-    }
-
-    @include breakpoint(large){
-      padding: 100px 0px 100px 0px;
-    }
 
 
     h1 {
@@ -100,6 +92,10 @@
 
       &--shotbud {
         max-height: 180px;
+      }
+      &--lifeflower {
+        padding-top: 40px;
+        max-height: 150px;
       }
     }
 
