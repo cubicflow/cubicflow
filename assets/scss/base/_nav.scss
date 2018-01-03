@@ -5,7 +5,7 @@
    font-family: $font-family--bold;
    text-transform: uppercase;
    font-size: 14px;
-   overflow: auto;
+   overflow: hidden;
 
    @include breakpoint(medium){
       height: 56px;
