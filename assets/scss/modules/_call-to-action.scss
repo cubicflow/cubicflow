@@ -4,7 +4,7 @@
   position: relative;
   color: $cf-grey-dark;
   transition: all 0.3s;
-  overflow: auto;
+  overflow: hidden;
   text-align: center;
 
   &__container {
