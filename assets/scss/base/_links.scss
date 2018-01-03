@@ -19,4 +19,9 @@
   &:hover {
     background-color: $cf-blue;
   }
+
+  &--call-to-action {
+    display: block;
+    margin-bottom: 120px;
+  }
 }
