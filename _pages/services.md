@@ -26,19 +26,19 @@ Full-Stack Development   •	  Branding   •   Mobile Apps   • 	 UI/UX   • 
 
 ### Sample prices
 
-Shown below are typical starting prices for some of our most common&nbsp;services. To&nbsp;request a quote, you&nbsp;can set up a free project consultation meeting by&nbsp;contacting&nbsp;us.
+Shown below are typical starting prices for some of our most common&nbsp;services. To&nbsp;request a quote, you&nbsp;can set up a free project consultation meeting by&nbsp;<a href="/contact">contacting&nbsp;us.</a>
 
 <span style="color:#737A7E">&#42; All figures in US&nbsp;dollars</span>
 
 <br><br>
 
-Logo:&nbsp;&nbsp;&nbsp;&nbsp;$2.5K+
+Logo:&nbsp;&nbsp;&nbsp;&nbsp;5K+
 
-Branding / Identity:&nbsp;&nbsp;&nbsp;&nbsp;$5.0K+
+Branding / Identity:&nbsp;&nbsp;&nbsp;&nbsp;$10K+
 
-Website:&nbsp;&nbsp;&nbsp;&nbsp;$10.0K+
+Website:&nbsp;&nbsp;&nbsp;&nbsp;$15K+
 
-Mobile Application:&nbsp;&nbsp;&nbsp;&nbsp;$20.0K+
+Mobile Application:&nbsp;&nbsp;&nbsp;&nbsp;$25K+
 
 <br>
 
@@ -46,7 +46,7 @@ Misc. Design:&nbsp;&nbsp;&nbsp;&nbsp;Available&nbsp;hourly.
 
 Misc. Development:&nbsp;&nbsp;&nbsp;&nbsp;Available&nbsp;hourly.
 
-Consulting:&nbsp;&nbsp;&nbsp;&nbsp;Contact&nbsp;us.
+Consulting:&nbsp;&nbsp;&nbsp;&nbsp;<a href="/contact">Contact&nbsp;us.</a>
 
 <br><br>
 
