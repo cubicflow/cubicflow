@@ -22,9 +22,9 @@ Full-Stack Development   •	  Branding   •   Mobile Apps   • 	 UI/UX   • 
 
 <div style="border-bottom: 1px solid #737A7E;"></div>
 
-<br><br>
+<!-- <br><br> -->
 
-### Sample prices
+<!-- ### Sample prices
 
 Shown below are typical starting prices for some of our most common&nbsp;services. To&nbsp;request a quote, you&nbsp;can set up a free project consultation meeting by&nbsp;<a href="/contact">contacting&nbsp;us.</a>
 
@@ -48,13 +48,13 @@ Misc. Development:&nbsp;&nbsp;&nbsp;&nbsp;Available&nbsp;hourly.
 
 Consulting:&nbsp;&nbsp;&nbsp;&nbsp;<a href="/contact">Contact&nbsp;us.</a>
 
-<br><br>
+<br><br> -->
 
-<div style="border-bottom: 1px solid #737A7E;"></div>
+<!-- <div style="border-bottom: 1px solid #737A7E;"></div> -->
 
-<div style="border-bottom: 1px solid #737A7E;"></div>
+<!-- <div style="border-bottom: 1px solid #737A7E;"></div> -->
 
-<br><br>
+<!-- <br><br> -->
 
 #### Our team works with a wide variety of development technologies, with something suitable for almost every&nbsp;use&nbsp;case.
 
