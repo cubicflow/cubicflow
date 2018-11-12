@@ -1,3 +1,7 @@
+RewriteEngine On
+RewriteCond %{HTTPS} on
+RewriteRule (.*) http://%{HTTP_HOST}%{REQUEST_URI}
+
 <ifModule mod_headers.c>
     Header set Connection keep-alive
 </ifModule>
