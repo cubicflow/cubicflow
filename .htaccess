@@ -2,6 +2,9 @@ RewriteEngine On
 RewriteCond %{HTTPS} on
 RewriteRule (.*) http://%{HTTP_HOST}%{REQUEST_URI}
 
+RewriteCond %{HTTP_HOST} ^www.cubicflow.com [NC]
+RewriteRule (.*) https://cubicflow.com%{REQUEST_URI} [L,R=301,NC]
+
 <ifModule mod_headers.c>
     Header set Connection keep-alive
 </ifModule>
